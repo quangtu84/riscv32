@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Mon Aug 22 10:23:23 2022
+[*]
+[dumpfile] "/home/ioachimus/github/tmp/lab01/ex02/wave.fst"
+[dumpfile_mtime] "Mon Aug 22 10:22:41 2022"
+[dumpfile_size] 870
+[savefile] "/home/ioachimus/github/tmp/lab01/ex02/wave.gtkw"
+[timestart] 0
+[size] 1920 1080
+[pos] -965 -32
+*-5.415936 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.top.
+[sst_width] 313
+[signals_width] 209
+[sst_expanded] 1
+[sst_vpaned_height] 562
+@28
+TOP.top.clk_i
+TOP.top.rst_ni
+TOP.top.button_i
+@22
+TOP.top.dut.counter[3:0]
+TOP.top.led_o[6:0]
+[pattern_trace] 1
+[pattern_trace] 0
